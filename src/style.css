@@ -1,0 +1,41 @@
+body {
+    background: linear-gradient(90deg, #e3ffe7 0%, #d9e7ff 100%);
+    font-family: "Roboto", sans-serif;
+}
+
+.card {
+    max-width: 80%;
+    padding: 40px 60px;
+    margin: 40px auto 40px auto;
+}
+
+.units {
+    position: relative;
+    right: -420px;
+    top: -100px;
+}
+
+.row {
+    text-align: center;
+}
+
+h1 {
+    padding: 10px 20px;
+}
+
+li {
+    list-style: none;
+}
+
+.sun {
+    position: absolute;
+    right: 200px;
+    top: 70px;
+}
+
+.today {
+    position: relative;
+    right: -350px;
+    top: -50px;
+    font-size: 40px;
+}
