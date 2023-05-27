@@ -39,3 +39,8 @@ li {
     top: -50px;
     font-size: 40px;
 }
+.footer {
+    display: block;
+    margin: 0 auto;
+    color: black;
+}
